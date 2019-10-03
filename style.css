@@ -1,0 +1,26 @@
+/*charts by Mary Girard*/
+
+body
+{
+width:     1000px;
+font-family: Arial;
+  font-size: 14px;
+font-color: #22181c; 
+  background-color: #f6e8ea;
+  
+}
+h1
+{
+font-family: Bookman;
+  font-color: #22181c;
+  background-color: #ef6263;
+  padding: 10px 50px;
+  width: 1000px;
+  border-radius: 1px 1px 25px 25px;
+
+}
+p
+{
+  padding: 10px;
+}
+
